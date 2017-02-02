@@ -1,0 +1,4 @@
+#!/bin/bash
+#nim game!
+gcc nimgame.cpp -o nimgame
+
